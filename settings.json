@@ -1,0 +1,34 @@
+{
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Actual Xcode Dark Theme",
+    "editor.fontFamily": "SF Pro Text Regular",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono Light",
+    "editor.fontWeight": 400,
+    "editor.fontSize": 15,
+    "editor.letterSpacing": 0.5,
+    "workbench.activityBar.location": "top",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+}
+
+// {
+//     "editor.mouseWheelZoom": true,
+//     "files.autoSave": "afterDelay",
+//     "workbench.colorTheme": "Actual Xcode Dark Theme",
+//     "editor.fontFamily": "SF Mono Medium",
+//     "editor.fontLigatures": true,
+//     "terminal.integrated.fontFamily": "JetBrains Mono Light",
+//     "editor.fontWeight": 400,
+//     "editor.fontSize": 15,
+//     "editor.letterSpacing": 0,
+// }
